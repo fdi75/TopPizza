@@ -1,0 +1,26 @@
+@media screen and (max-width: 997px) {
+
+    .menu {
+    background-color: #323232 !important;
+    }
+
+    .header-btn {
+        font-size: 2vw !important;
+        width: 30vw !important;
+    }
+    .call-btn , .form-btn{
+        width: 32vw !important;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    .header-btn {
+        font-size: 2.5vw !important;
+    }
+
+    .header-content {
+        margin-top: 15vw !important;
+    }
+
+}
